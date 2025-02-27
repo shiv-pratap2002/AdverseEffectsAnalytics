@@ -1,0 +1,13 @@
+adverse-venv
+.env
+__pycache__
+.gitignore
+.venv
+p.ipynb
+aspirin.csv
+desktop.ini
+default
+spark-nlp.py
+embeddings.pkl
+l.txt
+demo/adverseeffects(1).mov
