@@ -2,6 +2,8 @@
 
 This repository provides a comprehensive solution to extract adverse effects information from medical articles available on PubMed and Europe PMC, also it has been extended to extract discussions on Twitter as well. The process involves querying these APIs, extracting abstracts and conclusions, passing the text through ChatGPT to identify negative side effects, and finally displaying the results in a bar chart.
 
+Much thanks to Prakhar Dhama for the frontend. 
+
 ## Demos
 ![alt text](https://github.com/shiv-pratap2002/AdverseEffectsAnalytics/blob/public_master/demo/Screenshot%202025-02-28%20000910.png)
 ![alt text](https://github.com/shiv-pratap2002/AdverseEffectsAnalytics/blob/public_master/demo/Screenshot%202025-02-28%20001002.png)
